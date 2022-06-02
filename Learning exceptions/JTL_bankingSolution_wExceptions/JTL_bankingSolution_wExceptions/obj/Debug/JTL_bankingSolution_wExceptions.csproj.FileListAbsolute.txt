@@ -1,0 +1,11 @@
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\bin\Debug\JTL_bankingSolution_wExceptions.exe.config
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\bin\Debug\JTL_bankingSolution_wExceptions.exe
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\bin\Debug\JTL_bankingSolution_wExceptions.pdb
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\bin\Debug\JTL_bankingLIB_wExceptions.dll
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\bin\Debug\JTL_bankingLIB_wExceptions.pdb
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\obj\Debug\JTL_bankingSolution_wExceptions.csproj.AssemblyReference.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\obj\Debug\JTL_bankingSolution_wExceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\obj\Debug\JTL_bankingSolution_wExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\obj\Debug\JTL_bankingSolution_wExceptions.csproj.CopyComplete
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\obj\Debug\JTL_bankingSolution_wExceptions.exe
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 8 Exceptions\JTL_bankingSolution_wExceptions\JTL_bankingSolution_wExceptions\obj\Debug\JTL_bankingSolution_wExceptions.pdb
