@@ -29,7 +29,7 @@ namespace jacob_bankingLIB2
             accBalance = p_accBalance;
             accIsActive = p_accIsActive;
 
-            Console.WriteLine("Accessing Personal Accounts...");
+            Console.WriteLine("Retrieving Personal Accounts...");
         }
     }
 }

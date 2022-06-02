@@ -16,42 +16,53 @@ namespace jacob_solutions
             while (continueBanking == true)
             {
                 Console.WriteLine("~~~~ Welcome to The Super Bank ~~~");
-                Console.WriteLine("1. Access my Checking Account");
-                Console.WriteLine("2. Access my Savings Account");
-                Console.WriteLine("3. Access my Personal Loans");
-                Console.WriteLine("4. Exit");
+                Console.WriteLine("Press 1: to access your Checking Account");
+                Console.WriteLine("Press 2: to access your Savings Account");
+                Console.WriteLine("Press 3: to access your Personal Loans");
+                Console.WriteLine("Press 4: to Exit");
+                Console.WriteLine("");
+                Console.WriteLine("Please choose an option");
 
                 int choice = Convert.ToInt32(Console.ReadLine());
                 switch (choice)
                 {
                     case 1:
-                        Console.WriteLine("Accessing your Checking Account...");
-                        var acc = new Accounts(101, "Jacob's Checking", Designation.Checking, 75000, true);
-                        Console.WriteLine(acc.accNo);
+                        Console.WriteLine("Welcome Jacob!");
+                        var acc = new Accounts(101, "Snapshot of your checking balance: ", Designation.Checking, 75000, true);
+                        Console.WriteLine("");
+                        Console.WriteLine("Checking Account No. " + acc.accNo);
+                        Console.WriteLine("Account Type: " + acc.accType);
                         Console.WriteLine(acc.accName);
-                        Console.WriteLine(acc.accType);
-                        Console.WriteLine(acc.accBalance);
-                        Console.WriteLine(acc.accIsActive);
+                        Console.WriteLine("$" + acc.accBalance);
+                        Console.WriteLine("");
+                        Console.WriteLine("Account Active?: " + acc.accIsActive);
+                        Console.WriteLine("Press any key to continue banking.");
                         break;
 
                     case 2:
-                        Console.WriteLine("Accessing your Personal Savings Account...");
-                        var accsave = new Accounts(102, "Jacob's Savings", Designation.Savings, 33000, true);
-                        Console.WriteLine(accsave.accNo);
+                        Console.WriteLine("Welcome Jacob!");
+                        var accsave = new Accounts(102, "Snapshot of your savings balance: ", Designation.Savings, 33000, true);
+                        Console.WriteLine("");
+                        Console.WriteLine("Savings Account No. " + accsave.accNo);
+                        Console.WriteLine("Account Type: Premium " + accsave.accType);
                         Console.WriteLine(accsave.accName);
-                        Console.WriteLine(accsave.accType);
-                        Console.WriteLine(accsave.accBalance);
-                        Console.WriteLine(accsave.accIsActive);
+                        Console.WriteLine("$" + accsave.accBalance);
+                        Console.WriteLine("");
+                        Console.WriteLine("Account Active?: " + accsave.accIsActive);
+                        Console.WriteLine("Press any key to continue banking.");
                         break;
 
                     case 3:
-                        Console.WriteLine("Accessing your Personal Loans...");
-                        var accloans = new Accounts(103, "Jacob's Personal Loans", Designation.Loan, 4300, true);
-                        Console.WriteLine(accloans.accNo);
+                        Console.WriteLine("Welcome Jacob!");
+                        var accloans = new Accounts(103, "Snapshot of your personal loans: ", Designation.Loan, 4300, true);
+                        Console.WriteLine("");
+                        Console.WriteLine("Super Bank Personal Loan Account No. " + accloans.accNo);
+                        Console.WriteLine("Account Type: Ready " + accloans.accType);
                         Console.WriteLine(accloans.accName);
-                        Console.WriteLine(accloans.accType);
-                        Console.WriteLine(accloans.accBalance);
-                        Console.WriteLine(accloans.accIsActive);
+                        Console.WriteLine("$" + accloans.accBalance);
+                        Console.WriteLine("");
+                        Console.WriteLine("Account Active?: " + accloans.accIsActive);
+                        Console.WriteLine("Press any key to continue banking.");
                         break;
 
                     case 4:
@@ -66,7 +77,7 @@ namespace jacob_solutions
                             if (menuOption == "1")
                             {
                                 Console.WriteLine("You are now leaving the screen.");
-                                Console.WriteLine("Thank you for banking with The Super Bank");
+                                Console.WriteLine("Thank you!");
                                 return;
                             }
                             if (menuOption == "2")
