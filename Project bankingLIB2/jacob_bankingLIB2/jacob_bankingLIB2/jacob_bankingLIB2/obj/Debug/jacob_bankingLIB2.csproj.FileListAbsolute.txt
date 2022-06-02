@@ -1,0 +1,6 @@
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 6 Overloading & Libraries\Project bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\bin\Debug\jacob_bankingLIB2.dll
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 6 Overloading & Libraries\Project bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\bin\Debug\jacob_bankingLIB2.pdb
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 6 Overloading & Libraries\Project bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\obj\Debug\jacob_bankingLIB2.csproj.AssemblyReference.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 6 Overloading & Libraries\Project bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\obj\Debug\jacob_bankingLIB2.csproj.CoreCompileInputs.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 6 Overloading & Libraries\Project bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\obj\Debug\jacob_bankingLIB2.dll
+C:\Users\Jacob T.L\Desktop\.NET Training\Week 2\Day 6 Overloading & Libraries\Project bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\jacob_bankingLIB2\obj\Debug\jacob_bankingLIB2.pdb
