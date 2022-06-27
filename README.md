@@ -1,10 +1,17 @@
 # Training
 Work related to training
 
-Update 6/2
+Fixes & Updates 6/2:
+- Revisions made to Mon.5/31 mini project bankingLIB2
+- Banking library file tag: "jacob_bankingLIB_v2.sln"
+- Banking program/console app file tag: "jacob_solutions.sln"
 - Fixed compilation errors
 - Fixed merging errors
 - Added revised bankingLIB2 as "jacob_bankingLIB2_v2"
+- Added Lib/Program exceptions as work reference material
+- Cleaned empty lines
+- Improved banking library code readability
+- Fixed file naming and appropriate namespaces
 
 Update 5/31:
 - Added bankingLIB2 Mini Project
