@@ -1,6 +1,10 @@
 # Training
 Work related to training
 
+Updates 6/27:
+- Uploaded P0 Project
+- Uploaded P0 Project PowerPoint & Supplemental materials
+
 Fixes & Updates 6/2:
 - Revisions made to Mon.5/31 mini project bankingLIB2
 - Banking library file tag: "jacob_bankingLIB_v2.sln"
